@@ -193,12 +193,6 @@ Before you begin, ensure you have the following installed on your system:
 
 ```
 .
-├── .github
-│   ├── ISSUE_TEMPLATE
-│   │   ├── bug_report.md
-│   │   ├── feature_request.md
-│   │   └── config.yml
-│   └── PULL_REQUEST_TEMPLATE.md
 ├── sql
 │   └── schema.sql
 ├── src
@@ -210,9 +204,6 @@ Before you begin, ensure you have the following installed on your system:
 ├── .env
 ├── .env.example
 ├── .gitignore
-├── CHANGELOG.md
-├── CODE_OF_CONDUCT.md
 ├── package-lock.json
 ├── package.json
-├── README.md
-└── SECURITY.md
+└── README.md
