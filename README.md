@@ -1,6 +1,5 @@
 # TJRA Retail Analytics Backend
 
-[![Run on Repl.it](https://repl.it/badge/github/owner/repo)](https://repl.it/github/owner/repo)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://travis-ci.org/owner/repo.svg?branch=main)](https://travis-ci.org/owner/repo)
